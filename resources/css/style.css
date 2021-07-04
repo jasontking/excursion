@@ -9,11 +9,17 @@ html {
 body {
     text-align: center;
     background-color: black;
+    color: white;
 }
 
 h1 {
-   color: white;
+   
    font-size: 50px;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
 }
 
 a {
@@ -21,3 +27,12 @@ a {
     font-size: 16px;
 }
 
+
+#phone {
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+#copyright {
+    text-align: right;
+}
