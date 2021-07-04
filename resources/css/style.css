@@ -1,0 +1,23 @@
+/* Author: Jason Kingston 
+Main styles 
+*/
+
+html {
+    font-family: Verdana
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+   color: white;
+   font-size: 50px;
+}
+
+a {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
